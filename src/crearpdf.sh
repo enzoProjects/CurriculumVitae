@@ -1,0 +1,1 @@
+texfot lualatex cv.tex && open cv.pdf
